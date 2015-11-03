@@ -1,0 +1,10 @@
+{ 
+	"notifNo":"", 
+	"description": "",        
+	"location":"", 
+	"createdDate":"", 
+	"status":"",
+	"requestedBy":"",
+	"longText":"",
+	"superLoc":""
+}
